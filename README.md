@@ -59,7 +59,7 @@ This is the place where I opensource stuff and break things :rofl:
   
   <img alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   
-  <img alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
+  <img alt="Django" height="30" width="40" src="https://icon-library.com/images/django-icon/django-icon-0.jpg">
   
   <img alt="JavaScript" height="30" width="40" style="margin-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   
