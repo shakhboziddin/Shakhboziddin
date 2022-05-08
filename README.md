@@ -32,11 +32,11 @@ This is the place where I opensource stuff and break things :rofl:
   <img alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
  
 </div>
+
 ## Conect with me
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/shaxboziddin-shaxobiddinov-338a26230#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/shaxboziddin-shaxobiddinov-338a26230#gh-dark-mode-only)
 [![website](./img/instagram-light.svg)](https://www.instagram.com/shakhboziddin_dev#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/shakhboziddin_dev#gh-dark-mode-only)
-
 &nbsp;&nbsp;
 ##
