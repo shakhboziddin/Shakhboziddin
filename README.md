@@ -29,7 +29,16 @@ This is the place where I opensource stuff and break things :rofl:
   <br/>
   <div style="display: inline_block" align="center">
   <img alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
- 
+  <img alt="css" height="50" width="50" src="https://cutewallpaper.org/24/css-logo-png/css3-logo-vector-svg-icon-small-css-logo-pngcss3-icon-free-transparent-png-images-pngaaacom.png">
+  <img alt="sass" height="50" width="50" src="https://e7.pngegg.com/pngimages/72/936/png-clipart-sass-cascading-style-sheets-preprocessor-less-postcss-meng-miscellaneous-text-thumbnail.png">
+  <img alt="bootstrap" height="50" width="50" src="https://icons.getbootstrap.com/assets/img/icons-hero.png">
+  <img alt="javascript" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png
+  <img alt="node" height="50" width="50" src="https://icon-library.com/images/node-icon/node-icon-21.jpg">
+  <img alt="vue" height="50" width="50" src="https://iconape.com/wp-content/files/ny/112469/svg/vue-9.svg">
+  <img alt="react" height="50" width="50" src="https://www.pinclipart.com/picdir/middle/207-2071102_es7-snippets-react-native-icon-png-clipart.png">
+  <img alt="php" height="50" width="50" src="https://mpng.subpng.com/20180503/iwq/kisspng-php-computer-icons-mysql-media-logo-5aeb92a1bb9dc8.6244609315253879377685.jpg">
+  <img alt="laravel" height="50" width="50" src="https://e7.pngegg.com/pngimages/719/649/png-clipart-laravel-software-framework-web-framework-php-zend-framework-framework-icon-angle-text-thumbnail.png">
+   <img alt="laravel" height="50" width="50" src="http://cdn.onlinewebfonts.com/svg/img_255394.png">
 </div>
 
 ## Conect with me
