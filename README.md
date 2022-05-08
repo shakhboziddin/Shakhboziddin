@@ -12,6 +12,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 ## My stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shahboziddin2007&layout=compact&langs_count=7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahboziddin2007&layout=compact&langs_count=7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## My opensource projects
 ### All of my projects are realased as open-source on Github
 ```
@@ -33,7 +34,7 @@ This is the place where I opensource stuff and break things :rofl:
   <img alt="sass" height="70" width="70" src="https://e7.pngegg.com/pngimages/72/936/png-clipart-sass-cascading-style-sheets-preprocessor-less-postcss-meng-miscellaneous-text-thumbnail.png">
   <img alt="bootstrap" height="70" width="70" src="https://icons.getbootstrap.com/assets/img/icons-hero.png">
   <img alt="javascript" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png">
-  <img alt="node" height="70" width="70" src="https://icon-library.com/images/node-icon/node-icon-21.jpg">
+  <img alt="node" height="70" width="90" src="https://icon-library.com/images/node-icon/node-icon-21.jpg">
   <img alt="vue" height="70" width="70" src="https://iconape.com/wp-content/files/ny/112469/svg/vue-9.svg">
   <img alt="react" height="70" width="70" src="https://www.pinclipart.com/picdir/middle/207-2071102_es7-snippets-react-native-icon-png-clipart.png">
   <img alt="php" height="70" width="70" src="https://mpng.subpng.com/20180503/iwq/kisspng-php-computer-icons-mysql-media-logo-5aeb92a1bb9dc8.6244609315253879377685.jpg">
