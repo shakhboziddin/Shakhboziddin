@@ -12,7 +12,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 ## My stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shahboziddin2007)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahoziddin2007)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahboziddin2007)](https://github.com/anuraghazra/github-readme-stats)
 ## My opensource projects
 ### All of my projects are realased as open-source on Github
 ```
