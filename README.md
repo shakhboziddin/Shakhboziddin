@@ -4,7 +4,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 ## 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I'm currently learning Fullstack development
-- 💬 &nbsp;Ask me about anything related to Javascript/PHP/Python/Vue/react/node/larvel/html,css,sass,bootstrap
+- 💬 &nbsp;Ask me about anything related to Javascript/PHP/Python/Vue/React/Node/Mongo/Laravel/Html/Css/Sass/Bootstrap/
 - 📫 &nbsp;How to reach me: (Shahboziddin2007@gmail.com),(https://t.me/developerShaxboziddin) 
 - 👨‍💻 &nbsp;Read more about my projects (https://app.netlify.com/teams/shahboziddin2007/overview)
 - ⚡ &nbsp;Fun fact: I :heart: my profession
