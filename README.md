@@ -1,20 +1,65 @@
 # Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-## I'm Shakhboziddin Fullstack Developer
-This is the place where I opensource stuff and break things :rofl:
-
-## 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I'm currently learning Fullstack development
-- 💬 &nbsp;Ask me about anything related to Javascript/PHP/Python/Vue/React/Node/Mongo/Laravel/Html/Css/Sass/Bootstrap/
-- 📫 &nbsp;How to reach me: (Shahboziddin2007@gmail.com),(https://t.me/developerShaxboziddin) 
-- 👨‍💻 &nbsp;Read more about my projects (https://app.netlify.com/teams/shahboziddin2007/overview)
-- ⚡ &nbsp;Fun fact: I :heart: my profession
 
 
-## My stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shahboziddin2007&layout=compact&langs_count=7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahboziddin2007&layout=compact&langs_count=7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## My opensource projects
-### All of my projects are realased as open-source on Github
+My name is Shakhboziddin Shakhobiddinov
+=============================================
+
+Fullstack developer
+-------------------
+
+I've been learning to coding about 1 year. And I am almost junior developer.
+
+* 🌍  I'm based in Uzbekistan
+* 🖥️  See my portfolio at [Lambda Academy's web site](http://lambda-academy.netlify.app)
+* ✉️  You can contact me at [Shahboziddin2007@gmail.com](mailto:Shahboziddin2007@gmail.com)
+* 🚀  I'm currently working on [Fullstack devlopment](http://https://app.netlify.com/teams/shahboziddin2007/overview)
+* 🧠  I'm learning jQuery and React, Vue
+* 🤝  I'm open to collaborating on web 3.0
+* ⚡  I'm younger developer
+
+<a href="https://www.github.com/Shahboziddin2007" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Shahboziddin2007?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Skills
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
+<a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
+<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/Shahboziddin2007" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/shakhboziddin_dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shaxboziddin-shaxobiddinov-338a26230/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Shahboziddin2007"><img src="https://github-readme-stats.vercel.app/api?username=Shahboziddin2007&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Shahboziddin2007's GitHub stats" /></a>
+
+<a href="http://www.github.com/Shahboziddin2007"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahboziddin2007&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/Shahboziddin2007"><img src="https://activity-graph.herokuapp.com/graph?username=Shahboziddin2007&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/Shahboziddin2007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahboziddin2007&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 ```
   ____                  ____                      
  / __ \___  ___ ___    / __/__  __ _____________  
@@ -26,26 +71,3 @@ This is the place where I opensource stuff and break things :rofl:
 /___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)  
                  /___/                /___/        
 ```
- ## <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
-  <br/>
-  <div style="display: inline_block" align="center">
-  <img alt="HTML" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img alt="css" height="70" width="70" src="https://cutewallpaper.org/24/css-logo-png/css3-logo-vector-svg-icon-small-css-logo-pngcss3-icon-free-transparent-png-images-pngaaacom.png">
-  <img alt="sass" height="70" width="70" src="https://e7.pngegg.com/pngimages/72/936/png-clipart-sass-cascading-style-sheets-preprocessor-less-postcss-meng-miscellaneous-text-thumbnail.png">
-  <img alt="bootstrap" height="70" width="70" src="https://icons.getbootstrap.com/assets/img/icons-hero.png">
-  <img alt="javascript" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png">
-  <img alt="node" height="70" width="90" src="https://icon-library.com/images/node-icon/node-icon-21.jpg">
-  <img alt="vue" height="70" width="70" src="https://iconape.com/wp-content/files/ny/112469/svg/vue-9.svg">
-  <img alt="react" height="70" width="70" src="https://www.pinclipart.com/picdir/middle/207-2071102_es7-snippets-react-native-icon-png-clipart.png">
-  <img alt="php" height="70" width="70" src="https://mpng.subpng.com/20180503/iwq/kisspng-php-computer-icons-mysql-media-logo-5aeb92a1bb9dc8.6244609315253879377685.jpg">
-  <img alt="laravel" height="70" width="70" src="https://e7.pngegg.com/pngimages/719/649/png-clipart-laravel-software-framework-web-framework-php-zend-framework-framework-icon-angle-text-thumbnail.png">
-   <img alt="laravel" height="70" width="70" src="http://cdn.onlinewebfonts.com/svg/img_255394.png">
-</div>
-
-## Conect with me
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/shaxboziddin-shaxobiddinov-338a26230#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/shaxboziddin-shaxobiddinov-338a26230#gh-dark-mode-only)
-[![website](./img/instagram-light.svg)](https://www.instagram.com/shakhboziddin_dev#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/shakhboziddin_dev#gh-dark-mode-only)
-&nbsp;&nbsp;
-##
