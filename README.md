@@ -5,7 +5,7 @@
 My name is Shakhboziddin Shakhobiddinov
 =============================================
 
-Fullstack developer
+I am Fullstack developer
 -------------------
 
 I've been learning to coding about 1 year. And I am almost junior developer.
@@ -16,7 +16,7 @@ I've been learning to coding about 1 year. And I am almost junior developer.
 * 🚀  I'm currently working on [Fullstack devlopment](http://https://app.netlify.com/teams/shahboziddin2007/overview)
 * 🧠  I'm learning jQuery and React, Vue
 * 🤝  I'm open to collaborating on web 3.0
-* ⚡  I'm younger developer
+* ⚡  I'm young developer
 
 <a href="https://www.github.com/Shahboziddin2007" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Shahboziddin2007?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
