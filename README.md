@@ -11,7 +11,7 @@ I am Fullstack developer
 I've been learning to coding about 1 year. And I am almost junior developer.
 
 * 🌍  I'm based in Uzbekistan
-* 🖥️  See my portfolio at [Lambda Academy's web site](http://lambda-academy.netlify.app)
+* 🖥️  See my portfolio at [Overflow.io](https://overflowio.vercel.app/)
 * ✉️  You can contact me at [Shahboziddin2007@gmail.com](mailto:Shahboziddin2007@gmail.com)
 * 🚀  I'm currently working on [Mern Stack developing](https://overflowio.vercel.app/)
 * 🧠  I'm learning jQuery and React, Vue
