@@ -13,7 +13,7 @@ I've been learning to coding about 1 year. And I am almost junior developer.
 * 🌍  I'm based in Uzbekistan
 * 🖥️  See my portfolio at [Lambda Academy's web site](http://lambda-academy.netlify.app)
 * ✉️  You can contact me at [Shahboziddin2007@gmail.com](mailto:Shahboziddin2007@gmail.com)
-* 🚀  I'm currently working on [Fullstack devlopment](http://https://app.netlify.com/teams/shahboziddin2007/overview)
+* 🚀  I'm currently working on [Mern Stack developing](https://overflowio.vercel.app/)
 * 🧠  I'm learning jQuery and React, Vue
 * 🤝  I'm open to collaborating on web 3.0
 * ⚡  I'm young developer
