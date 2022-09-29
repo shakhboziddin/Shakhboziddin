@@ -19,7 +19,7 @@ I've been learning to coding about 1 year. And I am almost junior developer.
 * ⚡  I'm young developer
 
 <a href="https://open.spotify.com/user/31bfvqah4cvpxnb5el63b722x4n4?si=ba2894f020a44268" target="_blank" rel="noreferrer"><img
-src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ASpotify_logo_without_text.svg&psig=AOvVaw1oGTqsQiDmTbRzQI-SnXEJ&ust=1664557020203000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJCs2qa8uvoCFQAAAAAdAAAAABAN" /> My Spotify Playlist 💖</a>
+src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ASpotify_logo_without_text.svg&psig=AOvVaw1oGTqsQiDmTbRzQI-SnXEJ&ust=1664557020203000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJCs2qa8uvoCFQAAAAAdAAAAABAN](https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg)" /> My Spotify Playlist 💖</a>
 
 ### Skills
 
