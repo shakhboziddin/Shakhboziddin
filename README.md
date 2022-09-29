@@ -18,8 +18,8 @@ I've been learning to coding about 1 year. And I am almost junior developer.
 * 🤝  I'm open to collaborating on web 3.0
 * ⚡  I'm young developer
 
-<a href="https://www.github.com/Shakhboziddin" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Shakhboziddin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://open.spotify.com/user/31bfvqah4cvpxnb5el63b722x4n4?si=ba2894f020a44268" target="_blank" rel="noreferrer"><img
+src="https://1.bp.blogspot.com/-gr4baH1TNQs/X8Vxu5MmQQI/AAAAAAAARks/5j6bpo_QjQs9sXtWToD9lXk6ZUIBfwb6gCLcBGAsYHQ/s0/Spotify%2BLogo%2B-%2BDownload%2BFree%2BVector%2BPNG.png" />My Spotify Playlist 💖</a>
 
 ### Skills
 
