@@ -5,7 +5,7 @@
 My name is Shakhboziddin Shakhobiddinov
 =============================================
 
-I am Fullstack developer
+I am Frontend(Reactjs) developer
 -------------------
 
 I've been learning to coding about 1 year. And I am almost junior developer.
