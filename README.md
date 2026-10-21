@@ -1,30 +1,16 @@
-```markdown
-<div align="center">
+ <div align="center">
 
 <h3><code>shakhboziddin@github ~ $ ./contributions.sh</code></h3>
 
-<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution heatmap" />
+<img src="https://ghchart.rshah.org/Shakhboziddin" width="860" alt="GitHub contribution graph" />
 
 <br><br>
 
 <h3><code>shakhboziddin@github ~ $ whoami</code></h3>
 
-<table>
-  <tr>
-    <td valign="top">
-      <img src="./avi-ascii.svg" width="370" alt="Animated ASCII portrait" />
-    </td>
-    <td valign="top">
-      <img src="./info-card.svg" width="490" alt="Developer information card" />
-    </td>
-  </tr>
-</table>
+<strong>SHAKHBOZIDDIN SHAKHOBIDDINOV</strong>
 
-<br>
-
-<code>AI AUTOMATION · SOFTWARE DEVELOPMENT · BUILDING SYSTEMS</code>
-
-<br><br>
+<p>AI AUTOMATION ENGINEER · SOFTWARE DEVELOPER · SYSTEM BUILDER</p>
 
 <a href="https://overflowio.vercel.app/">Portfolio</a> •
 <a href="mailto:Shahboziddin2007@gmail.com">Email</a> •
@@ -39,58 +25,35 @@
 
 I'm **Shakhboziddin Shakhobiddinov**, a developer from Uzbekistan focused on AI automation and software development.
 
-I build web applications, connect APIs and databases, and create automated workflows that help businesses reduce repetitive work.
+I build web applications, connect APIs and databases, and create automated workflows that help businesses reduce repetitive work and operate more efficiently.
 
-Currently focused on building practical AI agents, business automations, and full-stack applications.
+### `shakhboziddin@github ~ $ cat current_focus.txt`
 
-### `shakhboziddin@github ~ $ cat current_projects.txt`
+- Building AI agents and business automations with **n8n**
+- Connecting APIs, databases, and external services
+- Developing applications with **Python, JavaScript, and React**
+- Designing practical systems that solve real business problems
 
-- Building AI-powered business workflows with **n8n**.
-- Developing AI agents and chatbot integrations.
-- Connecting APIs, databases, and business tools.
-- Building web applications with React and Python.
-- Exploring ways to make business processes more efficient through automation.
+### `shakhboziddin@github ~ $ ls ./tech-stack`
 
-### `shakhboziddin@github ~ $ neofetch --stack`
+| Area | Technologies |
+|---|---|
+| Languages | Python, JavaScript, HTML5, CSS3 |
+| Frontend | React, Bootstrap, Tailwind CSS, Sass, jQuery |
+| Backend | Node.js, Express.js |
+| Databases | MongoDB, Firebase, SQL databases |
+| Automation | n8n, AI agents, REST APIs |
+| Tools | Git, Linux, Figma, Photoshop |
 
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>Python · JavaScript · HTML · CSS</td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>React · Bootstrap · Tailwind CSS · Sass</td>
-  </tr>
-  <tr>
-    <td><b>Backend & Data</b></td>
-    <td>Node.js · Express · MongoDB · Firebase · SQL databases</td>
-  </tr>
-  <tr>
-    <td><b>Automation</b></td>
-    <td>n8n · AI agents · REST APIs · Workflow integrations</td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>Git · Linux · Figma · VS Code</td>
-  </tr>
-</table>
-
-### `shakhboziddin@github ~ $ ./connect.sh`
+### `shakhboziddin@github ~ $ cat contact.txt`
 
 - **Portfolio:** https://overflowio.vercel.app/
 - **Email:** Shahboziddin2007@gmail.com
-- **Instagram:** [@shakhboziddin_dev](https://www.instagram.com/shakhboziddin_dev/)
-- **LinkedIn:** [Shakhboziddin Shakhobiddinov](https://www.linkedin.com/in/shaxboziddin-shaxobiddinov-338a26230/)
-- **GitHub:** [@Shakhboziddin](https://github.com/Shakhboziddin)
+- **LinkedIn:** https://www.linkedin.com/in/shaxboziddin-shaxobiddinov-338a26230/
+- **Instagram:** https://www.instagram.com/shakhboziddin_dev/
 
 ---
 
 <div align="center">
-
-<sub>Building useful things, automating repetitive work, and learning by shipping.</sub>
-
-<sub>Made with Python, SVG, and GitHub Actions.</sub>
-
+<code>BUILDING SYSTEMS THAT WORK WHILE YOU SLEEP.</code>
 </div>
-```
